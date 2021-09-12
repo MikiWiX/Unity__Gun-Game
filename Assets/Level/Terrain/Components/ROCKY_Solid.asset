@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
+  m_Name: ROCKY_Solid
+  m_EditorClassIdentifier: 
+  m_Angles:
+  - m_Start: -90
+    m_End: 90
+    m_Order: 0
+    m_Sprites:
+    - {fileID: 21300000, guid: dec7d604719406442bacdec9644aa26a, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: fc79b1f09135fb74bb478a755d8d4b3d, type: 3}
+  m_CornerSprites:
+  - m_CornerType: 0
+    m_Sprites:
+    - {fileID: 7697589906301878124, guid: 46b677e9e95fee84f8a1904d4094a6dd, type: 3}
+  - m_CornerType: 1
+    m_Sprites:
+    - {fileID: -4057059046136895432, guid: 46b677e9e95fee84f8a1904d4094a6dd, type: 3}
+  - m_CornerType: 2
+    m_Sprites:
+    - {fileID: -8364212125898644577, guid: 46b677e9e95fee84f8a1904d4094a6dd, type: 3}
+  - m_CornerType: 3
+    m_Sprites:
+    - {fileID: 4297225700304023034, guid: 46b677e9e95fee84f8a1904d4094a6dd, type: 3}
+  - m_CornerType: 4
+    m_Sprites:
+    - {fileID: 5910108727498612196, guid: f7af4532bd95de14891cbb62214105c8, type: 3}
+  - m_CornerType: 5
+    m_Sprites:
+    - {fileID: -1436645307212223338, guid: f7af4532bd95de14891cbb62214105c8, type: 3}
+  - m_CornerType: 6
+    m_Sprites:
+    - {fileID: -9140133803267041923, guid: f7af4532bd95de14891cbb62214105c8, type: 3}
+  - m_CornerType: 7
+    m_Sprites:
+    - {fileID: -2404811990032230312, guid: f7af4532bd95de14891cbb62214105c8, type: 3}
+  m_FillOffset: 0
+  m_UseSpriteBorders: 1
